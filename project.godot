@@ -15,6 +15,10 @@ run/main_scene="res://scenes/MainLevel.tscn"
 config/features=PackedStringArray("4.3")
 config/icon="res://assets/icon.png"
 
+[dotnet]
+
+project/assembly_name="Tutorial 2"
+
 [input]
 
 move_up={
